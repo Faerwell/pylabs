@@ -1,2 +1,4 @@
 # pylabs
-All notes and hometasks for course: "BfP".
+Конспекты и домашние задания для курса: "PfB".
+
+Домашние задания хранятся в файлах - task.
